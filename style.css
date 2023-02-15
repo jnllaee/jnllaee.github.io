@@ -48,6 +48,15 @@ body {
 	margin: 5px;
 }
 
+.new-items{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	
+	margin: 0px;
+	padding: 10px;
+}
+
 /*
 .cmsc__container {
 	margin: 10px;
