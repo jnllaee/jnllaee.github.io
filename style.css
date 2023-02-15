@@ -2,3 +2,7 @@ h1,h3 {
 	font-family: Roboto;
 	text-align: center;
 }
+
+img {
+	height: 500px;
+}
